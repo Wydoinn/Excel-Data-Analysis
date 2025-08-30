@@ -16,7 +16,7 @@ This repository contains a collection of data analysis projects built entirely i
   * Song longevity analysis (weeks on chart)
   * Visual trends in rankings, streams, and digital sales
 
-👉 [View Project Folder](./Project-01-Billboard-Music-Trends)
+👉 [View Project Folder](./Billboard%20Music%20Trends%20Dashboard)
 
 ## 📥 Getting Started
 
