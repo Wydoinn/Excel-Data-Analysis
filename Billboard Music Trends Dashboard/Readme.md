@@ -51,7 +51,7 @@ Built **4 major PivotTables** to extract insights:
 - Sorted by Top 10  
 - Chart: Horizontal Bar  
 
-<img width="687" height="332" alt="Screenshot 2025-08-29 152455" src="https://github.com/user-attachments/assets/3484457a-3b5d-447e-8fc1-2eb7ec77b588" />
+<img width="682" height="347" alt="Screenshot 2025-08-30 153227" src="https://github.com/user-attachments/assets/4f17ae6e-1878-40b1-93ab-54442fd62094" />
 
 #### 📊 D) Song Longevity Distribution
 - **Rows**: `Weeks_in_chart` (grouped into ranges: 1–5, 6–10, 11–20…)  
@@ -130,3 +130,4 @@ In Power Query, I added new calculated columns for deeper analysis:
 
 This project demonstrates how **Power Query + Excel** can be used to clean, transform, and analyze large music chart datasets.
 By combining multiple Billboard sources, building **calculated columns**, and creating an interactive **dashboard**.
+
