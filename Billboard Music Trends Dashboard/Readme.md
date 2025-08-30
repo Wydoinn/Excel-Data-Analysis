@@ -130,4 +130,3 @@ In Power Query, I added new calculated columns for deeper analysis:
 
 This project demonstrates how **Power Query + Excel** can be used to clean, transform, and analyze large music chart datasets.
 By combining multiple Billboard sources, building **calculated columns**, and creating an interactive **dashboard**.
-* How songs perform across different chart types 📈
