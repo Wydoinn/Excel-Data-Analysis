@@ -129,10 +129,5 @@ In Power Query, I added new calculated columns for deeper analysis:
 ## ✅ Conclusion
 
 This project demonstrates how **Power Query + Excel** can be used to clean, transform, and analyze large music chart datasets.
-By combining multiple Billboard sources, building **calculated columns**, and creating an interactive **dashboard**, we can uncover insights like:
-
-* Which decades produced the most long-lasting hits 🎶
-* Which artists dominated the #1 spot 🌟
+By combining multiple Billboard sources, building **calculated columns**, and creating an interactive **dashboard**.
 * How songs perform across different chart types 📈
-
-This workflow can be extended to any dataset, making Excel a powerful tool for **data analysis & visualization**.
