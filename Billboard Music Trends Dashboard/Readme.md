@@ -5,7 +5,7 @@ This project combines and analyzes multiple Billboard chart datasets (Billboard 
 ![Demo](https://github.com/user-attachments/assets/b7478bf8-c765-44c3-9188-1ba74ab7738b)
 
 ## 📂 Datasets
-
+Dataset Link: [Billboard Hot 100 & More](https://www.kaggle.com/datasets/ludmin/billboard)
 - Billboard200.csv
 - Hot100.csv
 -  Radio.csv
@@ -68,6 +68,11 @@ Built **4 major PivotTables** to extract insights:
   - Arranged charts in a **2x2 grid** for readability.
 - Applied consistent formatting, colors, and chart titles.
 
+<img width="195" height="198" alt="Screenshot 2025-08-29 152336" src="https://github.com/user-attachments/assets/0da1785c-9deb-4123-9304-257e2469c1cd" />
+<img width="196" height="282" alt="Screenshot 2025-08-29 152351" src="https://github.com/user-attachments/assets/d61a57af-f3f6-49c3-bb89-d475b852409f" />
+<img width="198" height="303" alt="Screenshot 2025-08-29 152420" src="https://github.com/user-attachments/assets/4427032d-9bcc-4b51-8ba1-14895843e104" />
+<img width="198" height="323" alt="Screenshot 2025-08-29 152402" src="https://github.com/user-attachments/assets/ed96281b-e4d0-4680-a5d3-b99d5ea183cd" />
+
 ## 🔢 Helper Columns & Formulas
 In Power Query, I added new calculated columns for deeper analysis:
 
@@ -121,3 +126,13 @@ In Power Query, I added new calculated columns for deeper analysis:
     else if [Weeks in Charts] <= 500 then "301-500"
     else "501+")
   ```
+## ✅ Conclusion
+
+This project demonstrates how **Power Query + Excel** can be used to clean, transform, and analyze large music chart datasets.
+By combining multiple Billboard sources, building **calculated columns**, and creating an interactive **dashboard**, we can uncover insights like:
+
+* Which decades produced the most long-lasting hits 🎶
+* Which artists dominated the #1 spot 🌟
+* How songs perform across different chart types 📈
+
+This workflow can be extended to any dataset, making Excel a powerful tool for **data analysis & visualization**.
