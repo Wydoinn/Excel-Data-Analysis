@@ -18,6 +18,24 @@ This repository contains a collection of data analysis projects built entirely i
 
 👉 [View Project Folder](./Billboard%20Music%20Trends%20Dashboard)
 
+---
+
+### 2. 🛒 Sales Performance Dashboard
+
+* **Dataset:** FMCG Daily Sales Data (2022–2024)
+* **Techniques Used:** Power Query, Power Pivot, DAX, Pivot Tables, Charts
+* **Highlights:**
+
+  * KPI cards for Total Revenue, Units Sold, Average Price, Promotion Sales %, and Avg Delivery Days
+  * Sales trends over time with seasonality insights
+  * Regional and channel breakdowns with slicers
+  * Stock, delivered, and sold analysis with combo charts
+  * Promotion vs Non-Promotion impact visualization
+
+👉 [View Project Folder](./Sales%20Performance%20Dashboard)
+
+---
+
 ## 📥 Getting Started
 
 1. Clone or download the repo:
