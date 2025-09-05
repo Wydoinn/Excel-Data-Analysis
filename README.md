@@ -32,7 +32,7 @@ This repository contains a collection of data analysis projects built entirely i
   * Stock, delivered, and sold analysis with combo charts
   * Promotion vs Non-Promotion impact visualization
 
-👉 [View Project Folder](./Sales%20Performance%20Dashboard)
+👉 [View Project Folder](Sales%20Perfomance%20Dashboard)
 
 ---
 
